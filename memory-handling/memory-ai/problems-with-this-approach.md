@@ -1,5 +1,9 @@
-### The problem with this approach:
+### What we've built:
+```
+User > memory.json > entire memory injected in prompt > Gemini > Response
+```
 
+### The problem with this approach:
 Imagine `memory.json` becomes:
 ```json
 [
